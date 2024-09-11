@@ -1,0 +1,22 @@
+admin account
+user : admin_user
+password : AdminPass2024!
+
+=====================
+training manager account
+user : training_manager_user
+password : TrainingManagerPass2024!
+
+=====================
+insturctor account
+user: instructor_user
+password :InstructorPass2024!
+
+=====================
+student account
+user: student_user
+password : StudentPass2024!
+
+
+
+

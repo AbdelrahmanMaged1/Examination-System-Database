@@ -1,0 +1,57 @@
+is a summary of all the objects in your database, based on your requirements:
+
+1. Views
+dbo.CourseDetailsView:
+Displays details about courses, including course names, associated departments, and tracks.
+
+dbo.ExamQuestionsView:
+Shows questions for each exam, including the question type (MCQ, T/F), content, and related course.
+
+dbo.InstructorCoursesView:
+Lists courses assigned to each instructor, along with relevant details like course names and tracks.
+
+dbo.StudentCourseExamsView:
+Provides details about the exams each student has registered for, including course names, exam dates, and types.
+
+dbo.StudentDetailsView:
+Shows detailed information about students, including their personal data, intake, branch, and track.
+
+dbo.StudentExamResultsView:
+Displays exam results for students, including the course, exam type, and marks.
+
+dbo.TrainingManagerView:
+Provides a view of details relevant to the Training Manager, such as managed branches, tracks, and students.
+
+2. Stored Procedures
+dbo.AddExamResult:
+Inserts a new exam result for a student into the Ex_Result table.
+
+dbo.AddStudent:
+Adds a new student to the Student table, including their personal data and associations (intake, branch, and track).
+
+dbo.CalculateExamResult:
+Computes the final result for a student’s exam based on their answers in the st_answer table.
+
+dbo.UpdateStudent:
+Updates existing student information in the Student table, such as intake, branch, and track.
+
+3. Functions
+dbo.CalculateTotalMarks:
+A scalar function that calculates the total marks obtained by a student for a specific exam.
+
+dbo.GetCourseCountByTrack:
+Returns the number of courses available in a given track.
+
+4. Other Database Objects
+Tables:
+Each table (e.g., Student, Branch, Track, Course, Exam, etc.) holds the core data for different entities and their relationships.
+
+Roles and Permissions:
+Custom roles created for different user types (Admin, Training Manager, Instructor, Student) with specific permissions to access views and stored procedures.
+
+5. Indexes
+IX_Student_TrackID:
+An index on the Track_ID column of the Student table for faster retrieval of students based on their tracks.
+
+IX_Exam_ExamType:
+An index on the Exam_Type column of the Exam table to speed up queries filtering by exam type.

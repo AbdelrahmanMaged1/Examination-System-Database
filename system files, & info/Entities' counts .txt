@@ -1,0 +1,26 @@
+Students	100
+courses 	20
+instructors 	10
+training manager 3
+branch 		3
+track 		5 (4 courses for each)
+intake 		2
+=================================================
+question pool	400(200 T/F, 200 MCQ(3 choices))
+  . . . 20 Q for each course
+=================================================
+exam 		
+---> (SP retrieves randomly #Q from 20 as an exam...
+    for a specific course)
+=================================================
+ex-question 
+---> the SP that retrieves an exam automatically inserts the 
+     retrieved Qs in the ex_question table
+=================================================
+
+
+# answers	
+
+
+
+
