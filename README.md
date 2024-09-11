@@ -61,10 +61,9 @@ This project was developed as part of the Microsoft Data Engineer track during m
 
 ## Screenshots
 - *ER Diagram*
-  ![ER Diagram](images/er_diagram.png)
+  ![ER Diagram](![image](https://github.com/user-attachments/assets/f72dca1d-f864-4091-88bd-6d71c08acf72)
+)
 
-- *Sample Data Entry*
-  ![Sample Data](images/sample_data_entry.png)
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute, please fork the repository and make changes as you'd like. Submit a pull request or open an issue for any bug fixes, enhancements, or suggestions.
