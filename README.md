@@ -61,8 +61,7 @@ This project was developed as part of the Microsoft Data Engineer track during m
 
 ## Screenshots
 - *ER Diagram*
-  ![ER Diagram](![image](https://github.com/user-attachments/assets/f72dca1d-f864-4091-88bd-6d71c08acf72)
-)
+  ![ER Diagram](![image](https://github.com/user-attachments/assets/f72dca1d-f864-4091-88bd-6d71c08acf72))
 
 
 ## Contributing
@@ -73,5 +72,5 @@ Contributions are welcome! If you'd like to contribute, please fork the reposito
 - My mentors and peers for their valuable feedback and support throughout the project.
 
 ## Contact
-For more information, please contact me via [LinkedIn]([https://www.linkedin.com/in/abdo-maged](https://www.linkedin.com/in/abdelrahman-maged-b962102a6/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BOU%2F7%2FnUrSMqQ3FZHKkVCBw%3D%3D)).
+For more information, please contact me via [LinkedIn](https://www.linkedin.com/in/abdelrahman-maged-b962102a6/).
 
