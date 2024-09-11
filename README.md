@@ -51,7 +51,7 @@ This project was developed as part of the Microsoft Data Engineer track during m
 
 ## Usage
 1. **Generate Random Exam Questions**:
-   Use the stored procedure `GetRandomQuestions` to generate random questions for a particular exam based on the course.
+   Use the stored procedure `GetAnExam` to generate random questions for a particular exam based on the course.
 
 2. **Submit Student Answers**:
    Use the stored procedure `Submit_Student_Answer` to record a student's answer for a specific exam question.
@@ -69,13 +69,10 @@ This project was developed as part of the Microsoft Data Engineer track during m
 ## Contributing
 Contributions are welcome! If you'd like to contribute, please fork the repository and make changes as you'd like. Submit a pull request or open an issue for any bug fixes, enhancements, or suggestions.
 
-## License
-This project is open source and available under the [MIT License](LICENSE).
-
 ## Acknowledgments
 - **Digital Egypt Pioneers Initiative (DEPI)** for providing the training opportunity.
 - My mentors and peers for their valuable feedback and support throughout the project.
 
 ## Contact
-For more information, please contact me via [LinkedIn](https://www.linkedin.com/in/abdo-maged).
+For more information, please contact me via [LinkedIn]([https://www.linkedin.com/in/abdo-maged](https://www.linkedin.com/in/abdelrahman-maged-b962102a6/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BOU%2F7%2FnUrSMqQ3FZHKkVCBw%3D%3D)).
 
